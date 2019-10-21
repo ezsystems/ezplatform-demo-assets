@@ -1,0 +1,16 @@
+{
+  "name": "ezsystems/ezplatform-demo-assets",
+  "description": "Assets for ezsystems/ezplatform-demo",
+  "license": "GPL-2.0-only",
+  "authors": [
+    {
+      "name": "eZ Platform dev team",
+      "homepage": "https://github.com/ezsystems/ezplatform-demo/graphs/contributors"
+    }
+  ],
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2.0.x-dev"
+    }
+  }
+}
